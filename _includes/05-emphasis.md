@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My name is **Nguyen Tran**. I'm a software engineer working in *FPT Software*. I can code in C#, JS, VB,..
